@@ -1,0 +1,12 @@
+Set total to zero
+Set grade counter to zero
+
+While grade counter is less than or equal to ten
+	Prompt user to enter the next grade
+	Input next grade
+	Add the grade into total
+	Add one to the grade counter
+
+Set the class average to the total divided by ten
+Print the total of the grades for all students in the class
+Print the class average
